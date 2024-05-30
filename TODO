@@ -1,0 +1,5 @@
+# TODO1: improve factual accuracy with self correction (try advanced RAG control flow with LangGraph (e.g. Self-RAG, see nice tutorial repo) and/or GPT4.
+# TODO2: try with more pdf / and or summaries from GPT4 to improve factual accuracy on all the paper corpus.
+# TODO3: try to exploit metadata for better RAG.
+# TODO4: try contextual compression retriever for better RAG.
+# TODO5: update and deploy stremalit App
